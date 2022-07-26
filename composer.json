@@ -41,7 +41,7 @@
     },
     "require": {
         "php": "^7.1 || ^8.0",
-        "lookkoz/locale-data": "dev-anw"
+        "jsor/locale-data": "v2.2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.5",
